@@ -10,10 +10,10 @@ Two sentences are considered semantically similar when they have a paraphrasal o
 
 Consider the two sentences:
 
-| Pair | Sentence 1                               | Sentence 2                                               |   |   |
-|------|------------------------------------------|----------------------------------------------------------|---|---|
-| 1    | There was a lemon tree next to the house | The boy liked playing football next under the lemon tree |   |   |
-| 2    | There was a lemon tree next to the house | The boy liked playing football                           |   |   |
+| Pair | Sentence 1                               | Sentence 2                                               | 
+|------|------------------------------------------|----------------------------------------------------------|
+| 1    | There was a lemon tree next to the house | The boy liked playing football next under the lemon tree |
+| 2    | There was a lemon tree next to the house | The boy liked playing football                           |
 
 
 As for __Relatedness__, sentence pair 1 seems to be more related than pair 2.
