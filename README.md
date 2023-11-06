@@ -56,11 +56,21 @@ network can be used for the scoring part otherwise the entire concept can be ext
 
 ![Image Alternative](assets/siamese.png)
 
+> Unsupervised 
+
+The initial focus was on the creation of bigram datasets, utilizing only unigram and bigram datasets. A vast corpus was assembled by scraping Wikipedia articles, serving as the primary data source. A method was devised to track the co-occurrence of words within this corpus
+
 ## Evaluation
 
 Evaluations for all the three tasks are done on the basis of **Spearman Rank Correlation**
 
+While running any of the kaggle notebooks, please download the Semantic_relatedness_dataset present in kaggle datasets. The link for the dataset is given [Dataset Link](https://www.kaggle.com/datasets/udvasbasak/semantic-textual-relatedness-data)
+
 ## Some Results
+
+Theses are correlations obtained using **Multilingual BERT** on some languages using the provided training dataset
+
+![Alt text](image.png)
 
 These are some of the correlations obtained on some SOTA models and scoring metrics. Our current task essentially focuses on improving the score over the baseline **0.83**.
 
@@ -71,8 +81,8 @@ These are some of the correlations obtained on some SOTA models and scoring metr
 
 - [Intro PPT](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779A_theBoys.pdf)
 - [Mid Term Presentation](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779_theBoys_MidTerm.pdf)
-- [Mid Term Project Report](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779_Project_MidTerm_Report_3.pdf
-)
+- [Mid Term Project Report](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779_Project_MidTerm_Report_3.pdf)
+- [Final Project Report](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779_Project_EndTerm_Report_3.pdf)
 - [Project Doc link](https://docs.google.com/document/d/1Real5lpdL3gTRXVUCN71ZB56jWot9Q2bcvxHIIhXDeo/edit)
 - [Problem Statement link](https://semantic-textual-relatedness.github.io/)  
 
