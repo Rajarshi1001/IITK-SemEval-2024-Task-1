@@ -81,6 +81,7 @@ These are some of the correlations obtained on some SOTA models and scoring metr
 
 - [Intro PPT](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779A_theBoys.pdf)
 - [Mid Term Presentation](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779_theBoys_MidTerm.pdf)
+- [Final Presentation](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779-Project-Final-Presentation-3.pdf)
 - [Mid Term Project Report](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779_Project_MidTerm_Report_3.pdf)
 - [Final Project Report](https://github.com/Rajarshi1001/CS779AProject/blob/master/CS779_Project_EndTerm_Report_3.pdf)
 - [Project Doc link](https://docs.google.com/document/d/1Real5lpdL3gTRXVUCN71ZB56jWot9Q2bcvxHIIhXDeo/edit)
