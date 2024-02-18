@@ -1,6 +1,4 @@
-# CS779A Group 3 Project
-
-## Semantic Textual Relatedness for African and Asian Languages
+# SemEval 2024 Task 1: Semantic Textual Relatedness for African and Asian Languages
 
 ### Introduction
 
@@ -87,9 +85,6 @@ These are some of the correlations obtained on some SOTA models and scoring metr
 - [Project Doc link](https://docs.google.com/document/d/1Real5lpdL3gTRXVUCN71ZB56jWot9Q2bcvxHIIhXDeo/edit)
 - [Problem Statement link](https://semantic-textual-relatedness.github.io/)  
 
-
-__Group Name__: __The BOYS__
-__Group Number__: 3
 
 |Members | Github-ID |
 | --- | --- |
