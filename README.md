@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>SemEval 2024 Task 1: Semantic Textual Relatedness for African and Asian Languages
+    <h1>IITK at SemEval 2024 Task 1: Semantic Textual Relatedness for African and Asian Languages
     </h1>
     <a href="url">View Paper</a> 
     |
