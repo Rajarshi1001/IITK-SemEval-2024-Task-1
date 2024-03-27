@@ -70,7 +70,7 @@ where
 
 
 $$
-v^j = {v_{1}^{j}, v_{2}^{j}, \ldots, v_{n}^{j}}
+v^j = {{v_{1}^{j}, v_{2}^{j}, \ldots, v_{n}^{j}}}
 $$
 
 and
