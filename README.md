@@ -62,8 +62,8 @@ man rank correlation were calculated at the end of each validation epoch.
 - __Combined Relatedness Metric__ : A simple supervised deterministic regression model can be implemented to combine these metrics. Furthermore, to explore the importance of each of these metrics, a simple covariance matrix can show how the vector metrics onhigher element-wise-powered vectors hold information not caught directly at the lower powers of the vectors. To implement this supervised regression model, a simple 3-layered feed-forward neural network([25]+[50]+[25]) is trained. 
 
 $$
-x_i = \left\{ S(v_{i1}, v_{i2}), S(v_{i1}^{2}, v_{i2}^{2}), \ldots, 
-S(v_{i1}^{10}, v_{i2}^{10}), J(v_{i1}, v_{i2}), D(v_{i1}, v_{i2}) \right\}
+x_i = { S(v_{i1}, v_{i2}), S(v_{i1}^{2}, v_{i2}^{2}), \ldots, 
+S(v_{i1}^{10}, v_{i2}^{10}), J(v_{i1}, v_{i2}), D(v_{i1}, v_{i2})}
 $$
 
 where 
@@ -74,7 +74,7 @@ $$
 and
 
 $$
-S(a, b) = \left\{ C(a, b), E(a, b), M_{1}(a, b), M_{2}(a, b) \right\}
+S(a, b) = { C(a, b), E(a, b), M_{1}(a, b), M_{2}(a, b)}
 $$
 
 $$
@@ -137,8 +137,8 @@ These are the results obtained through our system developed for the unsupervised
 
 ## Project based resources
 
-- [Intro PPT](https://github.com/Rajarshi1001/IITK-SemEval-2024-Task-1/blob/master/project_resources/CS779A_theBoys.pdf)
-- [Mid Term Presentation](https://github.com/Rajarshi1001/IITK-SemEval-2024-Task-1/blob/master/project_resources/CS779_theBoys_MidTerm.pdf)
+- [Intro PPT](https://github.com/Rajarshi1001/IITK-SemEval-2024-Task-1/blob/master/project_resources/CS779A_theBoys_Intro_ppt.pdf)
+- [Mid Term Presentation](https://github.com/Rajarshi1001/IITK-SemEval-2024-Task-1/blob/master/project_resources/CS779_theBoys_MidTerm_ppt.pdf)
 - [Final Presentation](https://github.com/Rajarshi1001/IITK-SemEval-2024-Task-1/blob/master/project_resources/CS779-Project-Final-Presentation-3.pdf)
 - [Mid Term Project Report](https://github.com/Rajarshi1001/IITK-SemEval-2024-Task-1/blob/master/project_resources/CS779_Project_MidTerm_Report_3.pdf)
 - [Final Project Report](https://github.com/Rajarshi1001/IITK-SemEval-2024-Task-1/blob/master/project_resources/CS779_Project_EndTerm_Report_3.pdf)
