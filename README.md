@@ -62,13 +62,13 @@ man rank correlation were calculated at the end of each validation epoch.
 - __Combined Relatedness Metric__ : A simple supervised deterministic regression model can be implemented to combine these metrics. Furthermore, to explore the importance of each of these metrics, a simple covariance matrix can show how the vector metrics onhigher element-wise-powered vectors hold information not caught directly at the lower powers of the vectors. To implement this supervised regression model, a simple 3-layered feed-forward neural network([25]+[50]+[25]) is trained. 
 
 $$
-x_i = { S(v_{i1}, v_{i2}), S(v_{i1}^{2}, v_{i2}^{2}), \ldots, 
+x_i = {S(v_{i1}, v_{i2}), S(v_{i1}^{2}, v_{i2}^{2}), \ldots, 
 S(v_{i1}^{10}, v_{i2}^{10}), J(v_{i1}, v_{i2}), D(v_{i1}, v_{i2})}
 $$
 
 where 
 $$
-v^j = (v_1^j, v_2^j, \ldots, v_n^j)
+v^j = {v_1^j, v_2^j, \ldots, v_n^j}
 $$
 
 and
