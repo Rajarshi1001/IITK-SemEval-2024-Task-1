@@ -68,7 +68,7 @@ $$
 
 where 
 $$
-v^j = (v_1^j, v_2^j, \ldots, v_n^j)
+v^{j} = (v_{1}^{j}, v_{2}^{j}, \ldots, v_{n}^{j})
 $$
 
 and
